@@ -10,4 +10,12 @@ A Streamlit app to track job applications with simple dashboards.
 
 ## How to run it
 pip install streamlit  
+
 streamlit run application_tracker.py
+
+## Screenshots
+### Top of Dashboard
+<img src="applicationtracker2.01.JPG" alt="Dashboard" width="500"/>
+
+### Bottom of Dashboard
+<img src="applicationtracker2.02.JPG" alt="Dashboard" width="500"/>
